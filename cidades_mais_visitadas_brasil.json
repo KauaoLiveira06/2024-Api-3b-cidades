@@ -1,0 +1,62 @@
+[
+    {
+        "Posição": 1,
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Visitantes_ano": 15000000
+    },
+    {
+        "Posição": 2,
+        "Cidade": "Rio de Janeiro",
+        "Estado": "Rio de Janeiro",
+        "Visitantes_ano": 12000000
+    },
+    {
+        "Posição": 3,
+        "Cidade": "Salvador",
+        "Estado": "Bahia",
+        "Visitantes_ano": 7000000
+    },
+    {
+        "Posição": 4,
+        "Cidade": "Brasília",
+        "Estado": "Distrito Federal",
+        "Visitantes_ano": 5000000
+    },
+    {
+        "Posição": 5,
+        "Cidade": "Fortaleza",
+        "Estado": "Ceará",
+        "Visitantes_ano": 4000000
+    },
+    {
+        "Posição": 6,
+        "Cidade": "Belo Horizonte",
+        "Estado": "Minas Gerais",
+        "Visitantes_ano": 3500000
+    },
+    {
+        "Posição": 7,
+        "Cidade": "Florianópolis",
+        "Estado": "Santa Catarina",
+        "Visitantes_ano": 3000000
+    },
+    {
+        "Posição": 8,
+        "Cidade": "Curitiba",
+        "Estado": "Paraná",
+        "Visitantes_ano": 2500000
+    },
+    {
+        "Posição": 9,
+        "Cidade": "Recife",
+        "Estado": "Pernambuco",
+        "Visitantes_ano": 2500000
+    },
+    {
+        "Posição": 10,
+        "Cidade": "Porto Alegre",
+        "Estado": "Rio Grande do Sul",
+        "Visitantes_ano": 2000000
+    }
+]
