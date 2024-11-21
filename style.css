@@ -17,7 +17,7 @@
 
 body {
     font-family: var(--fonte-principal);
-    background-color: var(--barn-red);
+    background-color: var(--fire-brick);
     color: var(--papaya-whip);
     height: 100vh;
 }
@@ -70,6 +70,14 @@ footer {
     margin: 5rem;
 }
 
-.graficos-container_texto {
-    
+.graficos-container__texto {
+    font-size: 1.3rem;
+    text-align: center;
+    padding: 2rem;
+    border: var(--papaya-whip) solid 2px;
+}
+
+span {
+    font-weight: bold;
+    color: var(--prussian-blue);
 }
